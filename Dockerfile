@@ -1,1 +1,1 @@
-FROM vitess/lite:v14.0.3
+FROM vitess/lite:v13.0.3
